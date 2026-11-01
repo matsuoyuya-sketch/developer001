@@ -1,0 +1,12 @@
+# 業務情報を含むため同期しない
+週報.html
+CLAUDE.md
+
+# ローカル専用の設定・スキル（顧客名や所属情報を含む）
+.claude/
+
+# ツール・OS
+.sf/
+.DS_Store
+__pycache__/
+*.pyc
