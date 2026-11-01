@@ -5,6 +5,9 @@ CLAUDE.md
 # ローカル専用の設定・スキル（顧客名や所属情報を含む）
 .claude/
 
+# 別管理のプラグイン一式
+knowledge-web-plugins/
+
 # ツール・OS
 .sf/
 .DS_Store
