@@ -13,3 +13,9 @@ knowledge-web-plugins/
 .DS_Store
 __pycache__/
 *.pyc
+
+# 案件固有情報を含む受領フォルダ（公開しない）
+skills_260918*
+
+# 社内手順書（SharePointのURL等を含む。公開しない）
+案件スキル自動アップロード導入手順.html
