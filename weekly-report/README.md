@@ -77,6 +77,10 @@ python3 scripts/build_report.py -i examples/weekly-report-sample.txt -o 週報.h
 ## 出力フォーマット
 
 ```
+【今週のちょっとしたAI活用】
+
+・AIを使って解決・生成したことを簡潔に
+
 【トピックス】
 
 ・今週一週間のポイントを一言で
